@@ -1,0 +1,45 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    padding: 1%;
+}
+
+h2{
+    background-color:yellowgreen;
+    color: white;
+    text-align: center;
+    width: 100vw;
+}
+
+p{
+    text-align: center;
+    margin: 1%;
+}
+
+.pic-ceo{
+    text-align: center;
+}
+
+img{
+    width: 900px;
+    height: 600px;
+    margin-bottom: 2%;
+}
+
+
+a{
+    background-color:yellowgreen;
+    color:whitesmoke;
+    font-size: 20px;
+    padding: 1%;
+    margin: 3%;
+    font-weight: bold;
+    border: 3px double grey;
+    border-radius: 20px;
+    
+    
+}
+
